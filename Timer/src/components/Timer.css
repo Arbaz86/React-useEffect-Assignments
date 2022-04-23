@@ -1,0 +1,22 @@
+.timer-div {
+  border: 1px solid;
+  height: 200px;
+  width: 200px;
+  margin: auto;
+  margin-top: 50px;
+  font-size: 50px;
+  text-align: center;
+  align-items: center;
+  color: white;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px,
+    rgba(0, 0, 0, 0.3) 0px 30px 60px -30px,
+    rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+  border-radius: 50%;
+
+  color: rgba(0, 0, 0, 0.6);
+  background: #6e6e6e;
+  text-shadow: 3px 2px 3px rgba(255, 255, 255, 0.2);
+}
+.timer-div > h1 {
+  margin-top: 25px;
+}
